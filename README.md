@@ -1,1 +1,65 @@
-IyDwn46vIOW5uOemj+aMh+aVsOiuoeeul+WZqCAoSGFwcGluZXNzIENhbGN1bGF0b3IpCgrkuIDmrL7lvJXlr7zlvI/lubjnpo/mjIfmlbDmtYvor4Tlt6XlhbfvvIzpgJrov4cgNiDlpKfnu7TluqYgMTgg6YGT6aKY5biu5Yqp55So5oi36YeP5YyW55Sf5rS75ruh5oSP5bqm77yM55Sf5oiQ5Y+v6KeG5YyW5oql5ZGK5bm25pSv5oyB5YiG5Lqr44CCCgojIyDinKgg5Yqf6IO954m55oCnCgotICoq5YiG5q2l5byV5a+85byP5rWL6K+EKiog4oCUIDYg5Liq57u05bqm77yI5YGl5bq344CB5YWz57O744CB6LSi5Yqh44CB5bel5L2c44CB6Ieq55Sx44CB5oiQ6ZW/77yJ77yM5q+P6aKYIDEtMTAg5YiG5ruR5Z2X5omT5YiGCi0gKirlj6/op4bljJbmiqXlkYoqKiDigJQgU1ZHIOeOr+W9ouaAu+WIhuOAgeWFrei+ueW9oumbt+i+vuWbvuOAgee7tOW6puafseeKtuWvueavlAotICoq562J57qn6K+E5a6aKiog4oCUIDYg5qGj5bm456aP562J57qn77yI5p6B5L2O4oaS5p6B6auY77yJCi0gKirkuIDplK7liIbkuqsqKiDigJQg55Sf5oiQIC9zaGFyZSDpobXpnaLpk77mjqXvvIzml6DpnIDnmbvlvZXljbPlj6/mn6XnnIsKLSAqKuaal+iJsuaooeW8jyoqIOKAlCDmr5vnjrvnkoPotKjmhJ8gKyBUYWlsd2luZCBkYXJrIG1vZGUKCiMjIPCfm6DvuI8g5oqA5pyv5qCICgp8IOaKgOacryB8IOivtOaYjiB8CnwtLS0tLS18LS0tLS0tfAp8ICoqTmV4dC5qcyAxNSoqIHwgQXBwIFJvdXRlcu+8jFJlYWN0IDE5IHwKfCAqKlR5cGVTY3JpcHQqKiB8IFN0cmljdCBtb2RlIHwKfCAqKlRhaWx3aW5kIENTUyAzLjQqKiB8IFV0aWxpdHktZmlyc3QgKyBkYXJrIG1vZGUgfAp8ICoqU1ZHKiogfCDnuq/miYvlhpnpm7fovr7lm77jgIHnjq/lvaLlm77vvIzpm7blm77niYfkvp3otZYgfAoKIyMg8J+agCDmnKzlnLDov5DooYwKCmBgYGJhc2gKIyDlronoo4Xkvp3otZYKbnBtIGluc3RhbGwKCiMg5byA5Y+R5qih5byPCm5wbSBydW4gZGV2CgojIOaehOW7uueUn+S6p+eJiOacrApucG0gcnVuIGJ1aWxkCm5wbSBzdGFydApgYGAKCuaJk+W8gCBbaHR0cDovL2xvY2FsaG9zdDozMDAwXShodHRwOi8vbG9jYWxob3N0OjMwMDApIOWNs+WPr+S9v+eUqOOAggoKIyMg8J+TgiDpobnnm67nu5PmnoQKCmBgYApoYXBwaW5lc3MtY2FsY3VsYXRvci8K4pSc4pSA4pSAIGFwcC8K4pSCICAg4pSc4pSA4pSAIGdsb2JhbHMuY3NzICAgICAgICAgICMg5YWo5bGA5qC35byP77yI5q+b546755KD44CB5Yqo55S744CB6Ieq5a6a5LmJ5ruR5Z2X77yJCuKUgiAgIOKUnOKUgOKUgCBsYXlvdXQudHN4ICAgICAgICAgICAjIOagueW4g+WxgCArIFNFTyDlhYPmlbDmja4K4pSCICAg4pSc4pSA4pSAIHBhZ2UudHN4ICAgICAgICAgICAgICMg6aaW6aG16Lev55SxCuKUgiAgIOKUlOKUgOKUgCBzaGFyZS8K4pSCICAgICAgIOKUlOKUgOKUgCBwYWdlLnRzeCAgICAgICAgICMg5YiG5Lqr6aG16Lev55Sx77yI6K+75Y+WIFVSTCDlj4LmlbDvvIkK4pSc4pSA4pSAIGNvbXBvbmVudHMvCuKUgiAgIOKUlOKUgOKUgCBDYWxjdWxhdG9yLnRzeCAgICAgICAjIOaguOW/g+e7hOS7tu+8iOeKtuaAgeacuiArIOiuoeeul+W8leaTju+8iQrilJzilIDilIAgcHVibGljLyAgICAgICAgICAgICAgICAgICMg6Z2Z5oCB6LWE5rqQ77yI5b2T5YmN5Li656m677yM57qvENTSUyDnu5jliLbvvIkK4pSc4pSA4pSAIHBhY2thZ2UuanNvbgrilJzilIDilIAgdGFpbHdpbmQuY29uZmlnLnRzCuKUnOKUgOKUgCB0c2NvbmZpZy5qc29uCuKUlOKUgOKUgCBuZXh0LmNvbmZpZy50cwpgYGAKCiMjIPCfk4og6K6h566X5qih5Z6LCgrmgLvliIYgPSDliqDmnYPmsYLlkozvvIjlgaXlurcgw5cwLjIyICsg5YWz57O7IMOXMC4yMCArIOi0ouWKoSDDlzAuMTUgKyDlt6XkvZwgw5cwLjE1ICsg6Ieq55SxIMOXMC4xMyArIOaIkOmVvyDDlzAuMTXvvIkKCuavj+enjee7tOW6pueUsSAzIOmBk+mimOaJk+WIhu+8iDEtMTDvvInvvIznu7TluqbliIbmlbAgPSDpopjnm67lnYfliIYgw5cgMTDvvIzmu6HliIYgMTAw44CCCgojIyDwn5OEIExpY2Vuc2UKCk1JVAo=
+# 🎯 幸福指数计算器 (Happiness Calculator)
+
+一款引导式幸福指数测评工具，通过 6 大维度 18 道题帮助用户量化生活满意度，生成可视化报告并支持分享。
+
+## ✨ 功能特性
+
+- **分步引导式测评** — 6 个维度（健康、关系、财务、工作、自由、成长），每题 1-10 分滑块打分
+- **可视化报告** — SVG 环形总分、六边形雷达图、维度柱状对比
+- **等级评定** — 6 档幸福等级（极低→极高）
+- **一键分享** — 生成 /share 页面链接，无需登录即可查看
+- **暗色模式** — 毛玻璃质感 + Tailwind dark mode
+
+## 🛠️ 技术栈
+
+| 技术 | 说明 |
+|------|------|
+| **Next.js 15** | App Router，React 19 |
+| **TypeScript** | Strict mode |
+| **Tailwind CSS 3.4** | Utility-first + dark mode |
+| **SVG** | 纯手写雷达图、环形图，零图片依赖 |
+
+## 🚀 本地运行
+
+```bash
+# 安装依赖
+npm install
+
+# 开发模式
+npm run dev
+
+# 构建生产版本
+npm run build
+npm start
+```
+
+打开 [http://localhost:3000](http://localhost:3000) 即可使用。
+
+## 📂 项目结构
+
+```
+happiness-calculator/
+├── app/
+│   ├── globals.css          # 全局样式（毛玻璃、动画、自定义滑块）
+│   ├── layout.tsx           # 根布局 + SEO 元数据
+│   ├── page.tsx             # 首页路由
+│   └── share/
+│       └── page.tsx         # 分享页路由（读取 URL 参数）
+├── components/
+│   └── Calculator.tsx       # 核心组件（状态机 + 计算引擎）
+├── public/                  # 静态资源（当前为空，纯 CSS 绘制）
+├── package.json
+├── tailwind.config.ts
+├── tsconfig.json
+└── next.config.ts
+```
+
+## 📊 计算模型
+
+总分 = 加权求和（健康 ×0.22 + 关系 ×0.20 + 财务 ×0.15 + 工作 ×0.15 + 自由 ×0.13 + 成长 ×0.15）
+
+每种维度由 3 道题打分（1-10），维度分数 = 题目均分 × 10，满分 100。
+
+## 📄 License
+
+MIT
