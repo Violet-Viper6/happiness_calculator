@@ -1,1 +1,55 @@
-InVzZSBjbGllbnQiOwoKaW1wb3J0IHsgU3VzcGVuc2UgfSBmcm9tICJyZWFjdCI7CmltcG9ydCB7IHVzZVNlYXJjaFBhcmFtcyB9IGZyb20gIm5leHQvbmF2aWdhdGlvbiI7CgpmdW5jdGlvbiBTaGFyZUNvbnRlbnQoKSB7CiAgY29uc3QgcGFyYW1zID0gdXNlU2VhcmNoUGFyYW1zKCk7CiAgY29uc3Qgc2NvcmUgPSBwYXJhbXMuZ2V0KCJzY29yZSIpIHx8ICI/PyI7CiAgY29uc3QgbGV2ZWwgPSBwYXJhbXMuZ2V0KCJsZXZlbCIpIHx8ICLmnKrnn6UiOwogIGNvbnN0IGVtb2ppID0gcGFyYW1zLmdldCgiZW1vamkiKSB8fCAi8J+MhSI7CgogIGNvbnN0IGRpbXMgPSBbCiAgICB7IGljb246ICLwn5KaIiwgbmFtZTogIui6q+W/g+WBpeW6tyIsIHNjb3JlOiBwYXJhbXMuZ2V0KCJoZWFsdGgiKSB8fCAiPyIgfSwKICAgIHsgaWNvbjogIvCfkrAiLCBuYW1lOiAi6LSi5Yqh54q25Ya1Iiwgc2NvcmU6IHBhcmFtcy5nZXQoImZpbmFuY2UiKSB8fCAiPyIgfSwKICAgIHsgaWNvbjogIuKdpO+4jyIsIG5hbWU6ICLkurrpmYXlhbPns7siLCBzY29yZTogcGFyYW1zLmdldCgicmVsYXRpb25zaGlwIikgfHwgIj8iIH0sCiAgICB7IGljb246ICLwn5K8IiwgbmFtZTogIuW3peS9nOeKtuaAgSIsIHNjb3JlOiBwYXJhbXMuZ2V0KCJ3b3JrIikgfHwgIj8iIH0sCiAgICB7IGljb246ICLwn6aLIiwgbmFtZTogIueUn+a0u+iHqueUsSIsIHNjb3JlOiBwYXJhbXMuZ2V0KCJmcmVlZG9tIikgfHwgIj8iIH0sCiAgICB7IGljb246ICLinKgiLCBuYW1lOiAi6Ieq5oiR5a6e546wIiwgc2NvcmU6IHBhcmFtcy5nZXQoImdyb3d0aCIpIHx8ICI/IiB9LAogIF07CgogIHJldHVybiAoCiAgICA8bWFpbiBjbGFzc05hbWU9Im1pbi1oLXNjcmVlbiBweS04IHB4LTQiPgogICAgICA8ZGl2IGNsYXNzTmFtZT0ibWF4LXctbWQgbXgtYXV0byBnbGFzcy1jYXJkIHJvdW5kZWQtM3hsIHAtOCB0ZXh0LWNlbnRlciI+CiAgICAgICAgPGRpdiBjbGFzc05hbWU9InRleHQtNXhsIG1iLTQiPntlbW9qaX08L2Rpdj4KICAgICAgICA8aDEgY2xhc3NOYW1lPSJ0ZXh0LTN4bCBmb250LWJvbGQgYmctZ3JhZGllbnQtdG8tciBmcm9tLW9yYW5nZS01MDAgdG8tcGluay01MDAgYmctY2xpcC10ZXh0IHRleHQtdHJhbnNwYXJlbnQgbWItMiI+CiAgICAgICAgICDmiJHnmoTlubjnpo/mjIfmlbAKICAgICAgICA8L2gxPgogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJ0ZXh0LTZ4bCBmb250LWJsYWNrIGJnLWdyYWRpZW50LXRvLXIgZnJvbS1vcmFuZ2UtNTAwIHZpYS1waW5rLTUwMCB0by1wdXJwbGUtNTAwIGJnLWNsaXAtdGV4dCB0ZXh0LXRyYW5zcGFyZW50IG1iLTEiPgogICAgICAgICAge3Njb3JlfQogICAgICAgIDwvZGl2PgogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJ0ZXh0LWxnIGZvbnQtbWVkaXVtIHRleHQtZ3JheS02MDAgZGFyazp0ZXh0LWdyYXktMzAwIG1iLTYiPntsZXZlbH08L2Rpdj4KCiAgICAgICAgPGRpdiBjbGFzc05hbWU9ImdyaWQgZ3JpZC1jb2xzLTIgZ2FwLTIgdGV4dC1zbSB0ZXh0LWdyYXktNjAwIGRhcms6dGV4dC1ncmF5LTQwMCBtYi02Ij4KICAgICAgICAgIHtkaW1zLm1hcCgoZCkgPT4gKAogICAgICAgICAgICA8ZGl2IGtleT17ZC5uYW1lfSBjbGFzc05hbWU9ImJnLXdoaXRlLzUwIGRhcms6Ymctd2hpdGUvNSByb3VuZGVkLXhsIHAtMiI+CiAgICAgICAgICAgICAge2QuaWNvbn0ge2QubmFtZX06IDxzdHJvbmc+e2Quc2NvcmV9PC9zdHJvbmc+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgKSl9CiAgICAgICAgPC9kaXY+CgogICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC1ncmF5LTQwMCB0ZXh0LXhzIj4KICAgICAgICAgIOadpea1i+a1i+S9oOeahOW5uOemj+aMh+aVsCDihpIKICAgICAgICA8L3A+CiAgICAgIDwvZGl2PgogICAgPC9tYWluPgogICk7Cn0KCmV4cG9ydCBkZWZhdWx0IGZ1bmN0aW9uIFNoYXJlUGFnZSgpIHsKICByZXR1cm4gKAogICAgPFN1c3BlbnNlIGZhbGxiYWNrPXs8ZGl2IGNsYXNzTmFtZT0ibWluLWgtc2NyZWVuIGZsZXggaXRlbXMtY2VudGVyIGp1c3RpZnktY2VudGVyIHRleHQtZ3JheS00MDAiPuWKoOi9veS4rS4uLjwvZGl2Pn0+CiAgICAgIDxTaGFyZUNvbnRlbnQgLz4KICAgIDwvU3VzcGVuc2U+CiAgKTsKfQo=
+"use client";
+
+import { Suspense } from "react";
+import { useSearchParams } from "next/navigation";
+
+function ShareContent() {
+  const params = useSearchParams();
+  const score = params.get("score") || "??";
+  const level = params.get("level") || "未知";
+  const emoji = params.get("emoji") || "🌅";
+
+  const dims = [
+    { icon: "💚", name: "身心健康", score: params.get("health") || "?" },
+    { icon: "💰", name: "财务状况", score: params.get("finance") || "?" },
+    { icon: "❤️", name: "人际关系", score: params.get("relationship") || "?" },
+    { icon: "💼", name: "工作状态", score: params.get("work") || "?" },
+    { icon: "🦋", name: "生活自由", score: params.get("freedom") || "?" },
+    { icon: "✨", name: "自我实现", score: params.get("growth") || "?" },
+  ];
+
+  return (
+    <main className="min-h-screen py-8 px-4">
+      <div className="max-w-md mx-auto glass-card rounded-3xl p-8 text-center">
+        <div className="text-5xl mb-4">{emoji}</div>
+        <h1 className="text-3xl font-bold bg-gradient-to-r from-orange-500 to-pink-500 bg-clip-text text-transparent mb-2">
+          我的幸福指数
+        </h1>
+        <div className="text-6xl font-black bg-gradient-to-r from-orange-500 via-pink-500 to-purple-500 bg-clip-text text-transparent mb-1">
+          {score}
+        </div>
+        <div className="text-lg font-medium text-gray-600 dark:text-gray-300 mb-6">{level}</div>
+
+        <div className="grid grid-cols-2 gap-2 text-sm text-gray-600 dark:text-gray-400 mb-6">
+          {dims.map((d) => (
+            <div key={d.name} className="bg-white/50 dark:bg-white/5 rounded-xl p-2">
+              {d.icon} {d.name}: <strong>{d.score}</strong>
+            </div>
+          ))}
+        </div>
+
+        <p className="text-gray-400 text-xs">
+          来测测你的幸福指数 →
+        </p>
+      </div>
+    </main>
+  );
+}
+
+export default function SharePage() {
+  return (
+    <Suspense fallback={<div className="min-h-screen flex items-center justify-center text-gray-400">加载中...</div>}>
+      <ShareContent />
+    </Suspense>
+  );
+}

@@ -1,1 +1,15 @@
-aW1wb3J0IHR5cGUgeyBDb25maWcgfSBmcm9tICJ0YWlsd2luZGNzcyI7Cgpjb25zdCBjb25maWc6IENvbmZpZyA9IHsKICBjb250ZW50OiBbCiAgICAiLi9hcHAvKiovKi57anMsdHMsanN4LHRzeCxtZHh9IiwKICAgICIuL2NvbXBvbmVudHMvKiovKi57anMsdHMsanN4LHRzeCxtZHh9IiwKICBdLAogIGRhcmtNb2RlOiAiY2xhc3MiLAogIHRoZW1lOiB7CiAgICBleHRlbmQ6IHt9LAogIH0sCiAgcGx1Z2luczogW10sCn07CgpleHBvcnQgZGVmYXVsdCBjb25maWc7Cg==
+import type { Config } from "tailwindcss";
+
+const config: Config = {
+  content: [
+    "./app/**/*.{js,ts,jsx,tsx,mdx}",
+    "./components/**/*.{js,ts,jsx,tsx,mdx}",
+  ],
+  darkMode: "class",
+  theme: {
+    extend: {},
+  },
+  plugins: [],
+};
+
+export default config;

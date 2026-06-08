@@ -1,1 +1,24 @@
-ewogICJuYW1lIjogImhhcHBpbmVzcy1jYWxjdWxhdG9yIiwKICAidmVyc2lvbiI6ICIwLjEuMCIsCiAgInByaXZhdGUiOiB0cnVlLAogICJzY3JpcHRzIjogewogICAgImRldiI6ICJuZXh0IGRldiIsCiAgICAiYnVpbGQiOiAibmV4dCBidWlsZCIsCiAgICAic3RhcnQiOiAibmV4dCBzdGFydCIKICB9LAogICJkZXBlbmRlbmNpZXMiOiB7CiAgICAibmV4dCI6ICJeMTUuMC4yIiwKICAgICJyZWFjdCI6ICJeMTkuMC4wIiwKICAgICJyZWFjdC1kb20iOiAiXjE5LjAuMCIKICB9LAogICJkZXZEZXBlbmRlbmNpZXMiOiB7CiAgICAiQHR5cGVzL25vZGUiOiAiXjIwIiwKICAgICJAdHlwZXMvcmVhY3QiOiAiXjE5IiwKICAgICJAdHlwZXMvcmVhY3QtZG9tIjogIl4xOSIsCiAgICAidHlwZXNjcmlwdCI6ICJeNSIsCiAgICAidGFpbHdpbmRjc3MiOiAiXjMuNC4xIiwKICAgICJwb3N0Y3NzIjogIl44IiwKICAgICJhdXRvcHJlZml4ZXIiOiAiXjEwLjAuMSIKICB9Cn0K
+{
+  "name": "happiness-calculator",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^15.0.2",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "typescript": "^5",
+    "tailwindcss": "^3.4.1",
+    "postcss": "^8",
+    "autoprefixer": "^10.0.1"
+  }
+}

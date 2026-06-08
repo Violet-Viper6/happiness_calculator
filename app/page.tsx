@@ -1,1 +1,19 @@
-aW1wb3J0IENhbGN1bGF0b3IgZnJvbSAiQC9jb21wb25lbnRzL0NhbGN1bGF0b3IiOwoKZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gSG9tZSgpIHsKICByZXR1cm4gKAogICAgPG1haW4gY2xhc3NOYW1lPSJtaW4taC1zY3JlZW4gcHktOCBweC00Ij4KICAgICAgPGRpdiBjbGFzc05hbWU9Im1heC13LTJ4bCBteC1hdXRvIj4KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0idGV4dC1jZW50ZXIgbWItOCI+CiAgICAgICAgICA8aDEgY2xhc3NOYW1lPSJ0ZXh0LTR4bCBmb250LWJvbGQgYmctZ3JhZGllbnQtdG8tciBmcm9tLW9yYW5nZS01MDAgdmlhLXBpbmstNTAwIHRvLXB1cnBsZS01MDAgYmctY2xpcC10ZXh0IHRleHQtdHJhbnNwYXJlbnQgbWItMyI+CiAgICAgICAgICAgIOW5uOemj+aMh+aVsOiuoeeul+WZqAogICAgICAgICAgPC9oMT4KICAgICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC1ncmF5LTYwMCBkYXJrOnRleHQtZ3JheS0zMDAgdGV4dC1sZyI+CiAgICAgICAgICAgIDblpKfnu7TluqYgwrcg56eR5a2m6K+E5LywIMK3IOWPkeeOsOS9oOeahOW5uOemj+WvhueggQogICAgICAgICAgPC9wPgogICAgICAgIDwvZGl2PgogICAgICAgIDxDYWxjdWxhdG9yIC8+CiAgICAgIDwvZGl2PgogICAgPC9tYWluPgogICk7Cn0K
+import Calculator from "@/components/Calculator";
+
+export default function Home() {
+  return (
+    <main className="min-h-screen py-8 px-4">
+      <div className="max-w-2xl mx-auto">
+        <div className="text-center mb-8">
+          <h1 className="text-4xl font-bold bg-gradient-to-r from-orange-500 via-pink-500 to-purple-500 bg-clip-text text-transparent mb-3">
+            幸福指数计算器
+          </h1>
+          <p className="text-gray-600 dark:text-gray-300 text-lg">
+            6大维度 · 科学评估 · 发现你的幸福密码
+          </p>
+        </div>
+        <Calculator />
+      </div>
+    </main>
+  );
+}

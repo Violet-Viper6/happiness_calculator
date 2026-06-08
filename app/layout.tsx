@@ -1,1 +1,19 @@
-aW1wb3J0IHR5cGUgeyBNZXRhZGF0YSB9IGZyb20gIm5leHQiOwppbXBvcnQgIi4vZ2xvYmFscy5jc3MiOwoKZXhwb3J0IGNvbnN0IG1ldGFkYXRhOiBNZXRhZGF0YSA9IHsKICB0aXRsZTogIuW5uOemj+aMh+aVsOiuoeeul+WZqCDCtyDkvaDnmoTnlJ/mtLvmnInlpJrlubjnpo/vvJ8iLAogIGRlc2NyaXB0aW9uOiAi6YCa6L+HNuWkp+e7tOW6puenkeWtpuivhOS8sOS9oOeahOW5uOemj+aMh+aVsO+8jOWPkeeOsOiuqeS9oOabtOW5uOemj+eahOaWueWQkSIsCn07CgpleHBvcnQgZGVmYXVsdCBmdW5jdGlvbiBSb290TGF5b3V0KHsKICBjaGlsZHJlbiwKfTogewogIGNoaWxkcmVuOiBSZWFjdC5SZWFjdE5vZGU7Cn0pIHsKICByZXR1cm4gKAogICAgPGh0bWwgbGFuZz0iemgtQ04iPgogICAgICA8Ym9keSBjbGFzc05hbWU9ImFudGlhbGlhc2VkIG1pbi1oLXNjcmVlbiI+e2NoaWxkcmVufTwvYm9keT4KICAgIDwvaHRtbD4KICApOwp9Cg==
+import type { Metadata } from "next";
+import "./globals.css";
+
+export const metadata: Metadata = {
+  title: "幸福指数计算器 · 你的生活有多幸福？",
+  description: "通过6大维度科学评估你的幸福指数，发现让你更幸福的方向",
+};
+
+export default function RootLayout({
+  children,
+}: {
+  children: React.ReactNode;
+}) {
+  return (
+    <html lang="zh-CN">
+      <body className="antialiased min-h-screen">{children}</body>
+    </html>
+  );
+}
